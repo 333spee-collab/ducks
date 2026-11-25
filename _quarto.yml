@@ -1,0 +1,11 @@
+project:
+  type: website
+
+website:
+  navbar:
+    left:
+      - text: Map
+        href: map.qmd
+
+execute:
+  echo: false
